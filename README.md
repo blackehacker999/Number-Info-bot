@@ -13,3 +13,16 @@ pkg update -y && pkg upgrade -y
 pkg install python -y
 pip install pyTelegramBotAPI pytz
 ```
+```bash
+nano bot.py
+```
+Your Bot Token past 
+
+Run the bot com....
+```bash
+python bot.py
+```
+✅ After pasting code:
+👉 Press ➤ ENTER  
+👉 Then press ➤ CTRL + D to save
+
