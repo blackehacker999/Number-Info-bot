@@ -6,7 +6,7 @@ import time
 import os
 
 # === BOT TOKEN ===
-BOT_TOKEN = "8080721933:AAFlAlPbx-3es94EUUP_gONwSzD6TSMSdeU"  # ✅ Replace with your actual bot token
+BOT_TOKEN = "Your Bot Token"  # ✅ Replace with your actual bot token
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # === SHARED VARIABLES ===
