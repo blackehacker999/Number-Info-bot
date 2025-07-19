@@ -2,6 +2,6 @@
 Telegram bot using Termux Number Info Bot 
 
 ```bash
- hello 
+pkg update -y && pkg upgrade -y
 
 ```
