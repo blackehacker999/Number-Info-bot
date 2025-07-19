@@ -23,12 +23,13 @@ pkg install python -y
 ```bash
 pip install pyTelegramBotAPI pytz
 ```
+> open bot.py with any text editor and add your bot token
+
 ```bash
 nano bot.py
 ```
-Your Bot Token past 
 
-Run the bot com....
+⚙️ 𝙎𝙩𝙚𝙥-𝟓 : Run the Script
 ```bash
 python bot.py
 ```
