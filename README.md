@@ -1,6 +1,8 @@
 # Number-Info-bot
 Telegram bot using Termux Number Info Bot 
 
+📲 𝙎𝙩𝙚𝙥-𝟏 : git clone 
+
 ```bash
 git clone https://github.com/blackehacker999/Number-Info-bot.git
 ```
