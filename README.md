@@ -4,6 +4,7 @@ Telegram bot using Termux Number Info Bot
 ```bash
 git clone https://github.com/blackehacker999/Number-Info-bot.git
 ```
+🛠️ 𝙎𝙩𝙚𝙥-𝟐 : Update Packages
 
 ```bash
 pkg update -y && pkg upgrade -y
